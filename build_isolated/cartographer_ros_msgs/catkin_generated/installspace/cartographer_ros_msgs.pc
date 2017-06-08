@@ -1,0 +1,8 @@
+prefix=/home/renno/ProoviGit/install_isolated
+
+Name: cartographer_ros_msgs
+Description: Description of cartographer_ros_msgs
+Version: 0.1.0
+Cflags: -I/home/renno/ProoviGit/install_isolated/include
+Libs: -L/home/renno/ProoviGit/install_isolated/lib 
+Requires: geometry_msgs
