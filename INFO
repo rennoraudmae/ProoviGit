@@ -1,0 +1,25 @@
+
+ProoviGit/Gazebo_models kaustas on erinevad lahendused mida proovisin läbi:
+
+car_1 on tehtud õpetuse järgi, mis on olemas gazebosim.com/tutorials
+
+Sinna on lisatud depth_camera, mis on by default gazebos juba olemas. Kui gazebo simulatsioonikeskkonnas mingi objekt lisada ja depth_camera seda näeb, siis hakkab auto selle suunas liikuma.
+
+Random_building ja Velodyne HDL-32 on samuti tehtud gazebosim.com/tutorialsi järgi.
+
+Järgisin Gazebo pluginate tutoriale (http://gazebosim.org/tutorials?cat=write_plugin). Selle kohta on kaks kausta gazebo_plugin_tutorial ja velodyne-i jaoks velodyne_plygin. 
+Siin kohal jäin ka praegu toppama, sest ei saanud isegi Hello.world näidet tööle. Pilt errorist ProoviGit/Hello_world_error.jpg. Tegelesin selle lahendamisega ca 2,5h, aga kahjuks hetkel lahendusini ei jõudnud. 
+
+Lisaks tegin Juurde ProoviGit/Gazebo_models alla kolm erinevat varianti pöördalust: 
+
+Platvorm
+Platvorm_depth_camera
+Platvrom_lidariga
+
+Nende tegemine võttis kokku ca 45min.
+
+
+
+ 
+
+

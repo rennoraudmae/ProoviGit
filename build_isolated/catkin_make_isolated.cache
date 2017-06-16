@@ -1,2 +1,2 @@
-cartographer:cartographer_ros/cartographer_ros:cartographer_ros/cartographer_ros_msgs:cartographer_ros/cartographer_rviz:ceres-solver
--G Ninja -DCATKIN_DEVEL_PREFIX=/home/renno/ProoviGit/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/renno/ProoviGit/install_isolated
+cartographer:cartographer_ros/cartographer_ros:cartographer_ros/cartographer_ros_msgs:cartographer_ros/cartographer_rviz:ceres-solver:turtlebot/turtlebot:turtlebot/turtlebot_bringup:turtlebot/turtlebot_capabilities:turtlebot/turtlebot_description:turtlebot/turtlebot_teleop
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/renno/ProoviGit/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/renno/ProoviGit/install_isolated
